@@ -9,7 +9,7 @@ This project is a back-end application for an e-commerce site, built using Node.
 
 ## Video Demonstration
 
-![Link to Video Demo]()
+[Link to Video Demo](/assets/ecomm_vid.mp4)
 
 ## Associations
 
