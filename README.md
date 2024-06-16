@@ -22,4 +22,4 @@ This project is a back-end application for an e-commerce site, built using Node.
 
 ## Screenshots
 
-![Screenshot](image.png)
+![Screenshot](/assets/images/image.png)
